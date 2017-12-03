@@ -15,7 +15,7 @@
  * @wordpress-plugin
  * Plugin Name:       Simple Responsive Videos
  * Plugin URI:        http://avclark.com
- * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
+ * Description:       The simplest way to make your video embeds responsive without any shortcodes or added markup.
  * Version:           1.0.0
  * Author:            Adam Clark
  * Author URI:        http://avclark.com
